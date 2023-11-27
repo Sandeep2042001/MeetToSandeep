@@ -1,0 +1,61 @@
+.bg-primary{
+    background:linear-gradient(to right, rgb(218, 103, 183), rgb(162, 125, 215), rgb(72, 72, 194))!important;
+    /* background:linear-gradient(to right, green, white, orange)!important; */
+    /* background-color: blue; */
+}
+
+.containersp{
+    border: dashed wheat;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+
+
+body{
+    background:linear-gradient(to right, rgb(67, 67, 232), rgb(129, 65, 218), rgb(180, 87, 152))!important;
+    /* background:linear-gradient(to right, rgb(10, 7, 0), white, rgb(0, 255, 0))!important; */
+    color:wheat;
+    font-family: 'Kalam', cursive;
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Poppins', sans-serif; */
+}
+
+
+.my-icon{
+    font-size: 80px!important;
+    color:wheat;
+}
+
+.services-container{
+    border: 2px solid rgb(34, 34, 101);
+    padding: 10px;
+    cursor: pointer;
+    transition: 200ms all ease-in-out;
+    border-radius: 5px;
+}
+
+.services-container:hover{
+    box-shadow: 5px 5px 30px rgba(47, 69, 111);
+}
+
+.hero{
+    color: black;
+}  
+
+.parallax-container {
+    height: 550px;
+  }
+
+  
+  .containerimg {
+    width: 300px; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  
